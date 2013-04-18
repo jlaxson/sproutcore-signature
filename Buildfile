@@ -1,0 +1,1 @@
+config :signature, :required => [:sproutcore]
